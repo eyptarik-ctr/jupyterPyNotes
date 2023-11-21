@@ -1,0 +1,27 @@
+git hub ve terminal komutları
+ls = listele 
+cd = change directory
+pwd = pirint workink directory örnek c\..\
+touch = yeni dosya oluşturur
+rm = dosyalrı siler rm test.txt 
+klasör silmek için rm -rf dosya
+klasör dosya oluşturmak için mkdir make directory 
+git komutları
+git status = git durumunu gösterir
+bir klasörde giti aktif etmek için "git init" çalıştıtırz
+ls -la = gizli dosyaları gösterir
+commit = bölüm git comit git commit -m "........"
+branc = dal ayırmak bölüm merge = birleştirmrk
+dosyalarım git tarafından takip edilmesi git add git add . tüm dosyaları takip eder
+git log comit kayıtlarını gösterir
+commit lenen bir dosyayı bir önceki commite döndürmek için git restore text1.txt
+git branch = şuanda hangi branc üzerinde oldumuz gösterir
+yeni branch oluşturmak için git branch example branc
+git switch = branch lar arası gezinmaek
+merge git switch main git merge chapter1
+git checkout = commit ler arası gezinmek head'ı deyiştirir
+git reset --hard commit id
+git tag  = commit tago
+
+git push = projeyi yüklemek git pull indirmaek
+gitignore gizli dosyaları görmezden gelir
